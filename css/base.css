@@ -20,6 +20,6 @@ a {
   margin: auto;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  padding: 117px 0px;
+  justify-content: space-around;
+  height: 100vh;
 }
