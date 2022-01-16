@@ -16,10 +16,10 @@ a {
 }
 
 .container {
-  max-width: 980px;
+  max-width: 1040px;
   margin: auto;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   height: 100vh;
 }
