@@ -4,7 +4,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 20px;
 }
 
 .title-text {
@@ -39,7 +38,6 @@
 /* central content */
 .central-content {
   text-align: center;
-  margin-bottom: 68px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -73,16 +71,17 @@
   font-style: normal;
   font-weight: normal;
   text-align: center;
-  padding-bottom: 15px;
   margin: 0px;
 }
 
 .footer-link a {
   font-size: 17px;
   line-height: 166%;
+  transition: .2s all;
 }
 
 .footer-link a:hover {
   color: #ec1d23;
+  transition: .2s all;
 }
 /* end link */
